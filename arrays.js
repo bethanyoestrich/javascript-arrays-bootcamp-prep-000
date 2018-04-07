@@ -19,5 +19,5 @@ function addElementToBeginningOfArray(array,newElement) {
    return array}
    
 function accessElementInArray(array, index){
- return array.indexof
+ return array.indexOf(index)
 }
